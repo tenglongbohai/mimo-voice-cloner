@@ -1,0 +1,15 @@
+# 个人音频和密钥
+*.wav
+*.mp3
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 合成输出（示例文件除外）
+clone_*.wav
+
+# IDE
+.vscode/
+.idea/
